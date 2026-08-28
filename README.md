@@ -1,39 +1,56 @@
-## Front-End Developer | React • TypeScript • Tailwind ⋆˙⟡⋆˙⟡⋆˙⟡ ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=linkedin&logoColor=white)
-<p align="left">
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" width="280" />
-
-</p> 
-
-
-<div style="font-size: 26px; font-weight: 500; line-height: 1.4;">
-  Desenvolvedora Front-end especializada em <strong>React</strong> e <strong>TypeScript</strong>, com experiência na construção de <strong>interfaces modernas, responsivas</strong> e integração com <strong>APIs</strong>. ☕︎
-</div>
-
-
-<br>
+<h1 align="center">Hi, I'm Aditya Srivastava 👋</h1>
 
 <p align="center">
-   
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" style="max-width: 100%;" />
-
+  <strong>AI & Machine Learning Developer</strong><br/>
+  Building intelligent applications with computer vision, RAG, and mobile development.
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/Aditya08q">
+    <img src="https://img.shields.io/github/followers/Aditya08q?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" />
+  </a>
+</p>
 
+## About me
 
+- 🧠 I build practical AI systems, from computer-vision models to Retrieval-Augmented Generation (RAG) applications.
+- 🔭 My work includes human image segmentation, handwritten-equation recognition, and research-paper question answering.
+- 📱 I also develop mobile experiences with Flutter.
+- 🌱 I’m continuously deepening my knowledge of deep learning, LLM applications, and scalable AI services.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## Tech stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,fastapi,flutter,dart,streamlit,git,github,linux&perline=10" alt="Tech stack" />
+</p>
 
-![Linguagens mais usadas](https://github-readme-stats-zeta-amber-15.vercel.app/api/top-langs/?username=Amanda-Correa2003&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/PyMuPDF-3776AB?style=for-the-badge" alt="PyMuPDF" />
+</p>
 
-![Streak](https://github-readme-streak-stats-eight.vercel.app?user=Amanda-Correa2003&theme=tokyonight)
+## Featured work
+
+| Project | What it does | Core technologies |
+| --- | --- | --- |
+| [Research Paper RAG](https://github.com/Aditya08q/Research_Paper_RAG_System) | Answers questions about uploaded research papers with grounded citations. | FastAPI, LangChain, ChromaDB, Groq |
+| [Human Image Segmentation](https://github.com/Aditya08q/Img_segmentation) | Real-time, multi-class human segmentation with color-coded masks. | TensorFlow, OpenCV, Streamlit |
+| [Handwritten Equation Solver](https://github.com/Aditya08q/Equation_solver) | Recognizes mathematical characters using a CNN. | Python, CNN, Streamlit |
+| [AI Fitness Trainer](https://github.com/Aditya08q/AI_trainer) | A mobile fitness application. | Flutter, Dart |
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya08q&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya08q&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya08q&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <i>Open to collaborating on meaningful AI, machine learning, and computer-vision projects.</i>
+</p>
