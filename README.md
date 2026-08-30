@@ -21,10 +21,13 @@
 ## Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,opencv,fastapi,firebase,flutter,dart,html,css,javascript,threejs,unity,godot,streamlit,androidstudio,vscode,git,github,linux&perline=11" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,opencv,fastapi,firebase,flutter,dart,html,css,javascript,threejs,unity,godot,androidstudio,vscode,git,github,linux&perline=10" alt="Tech stack" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
 </p>
