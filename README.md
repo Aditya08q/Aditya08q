@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="./225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel-art developer workspace" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Aditya08q">
     <img src="https://img.shields.io/github/followers/Aditya08q?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" />
   </a>
