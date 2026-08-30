@@ -21,7 +21,7 @@
 ## Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,fastapi,flutter,dart,html,css,javascript,threejs,unity,godot,streamlit,git,github,linux&perline=16" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,opencv,fastapi,firebase,flutter,dart,html,css,javascript,threejs,unity,godot,streamlit,androidstudio,vscode,git,github,linux&perline=11" alt="Tech stack" />
 </p>
 
 <p align="left">
