@@ -38,15 +38,6 @@
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
 </p>
 
-## Featured work
-
-| Project | What it does | Core technologies |
-| --- | --- | --- |
-| [Research Paper RAG](https://github.com/Aditya08q/Research_Paper_RAG_System) | Answers questions about uploaded research papers with grounded citations. | FastAPI, LangChain, ChromaDB, Groq |
-| [Human Image Segmentation](https://github.com/Aditya08q/Img_segmentation) | Real-time, multi-class human segmentation with color-coded masks. | TensorFlow, OpenCV, Streamlit |
-| [Handwritten Equation Solver](https://github.com/Aditya08q/Equation_solver) | Recognizes mathematical characters using a CNN. | Python, CNN, Streamlit |
-| [AI Fitness Trainer](https://github.com/Aditya08q/AI_trainer) | A mobile fitness application. | Flutter, Dart |
-
 ## GitHub stats
 
 <p align="center">
