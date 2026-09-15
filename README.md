@@ -20,7 +20,7 @@
 - I build practical AI systems, from computer-vision models to Retrieval-Augmented Generation (RAG) applications.
 - My work includes human image segmentation, handwritten-equation recognition, and research-paper question answering.
 - I also develop mobile experiences with Flutter.
-- I’m continuously deepening my knowledge of deep learning, LLM applications, and scalable AI services
+- I’m continuously deepening my knowledge of deep learning, LLM applications, and scalable AI services.
 
 ## Tech stack
 
