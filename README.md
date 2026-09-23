@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI & Machine Learning Developer</strong><br/>
-  Building intelligent applications with computer vision, RAG, and mobile development.
+  Building intelligent applications with computer vision, RAG, and mobile development
 </p>
 
 <p align="center">
